@@ -1,0 +1,297 @@
+;;; Automatically generated on Thu May  2 13:25:25 2019
+;;; Invoked by marco@marco-latitude using 26.1
+(setq-default kill-ring '(#("  SCHEDULED: <2019-04-08>
+" 0 2 (org-category #1="Projects" fontified t) 2 12 (face org-special-keyword org-category #1# fontified t) 12 13 (org-category #1# fontified t) 13 24 (face org-date keymap \.\.\. mouse-face highlight org-category #1# fontified t) 24 25 (face org-date keymap \.\.\. mouse-face highlight rear-nonsticky \.\.\. org-category #1# fontified t) 25 26 (org-category #1# fontified t)) #("  SCHEDULED: <2019-04-08>
+  DEADLINE: <2019-06-01>
+
+" 0 2 (fontified t org-category #1="Projects") 2 12 (fontified t org-category #1# face org-special-keyword) 12 13 (fontified t org-category #1#) 13 24 (fontified t org-category #1# mouse-face highlight keymap \.\.\. face org-date) 24 25 (fontified t org-category #1# mouse-face highlight keymap \.\.\. rear-nonsticky \.\.\. face org-date) 25 26 (fontified t org-category #1#) 26 28 (org-category #1# fontified t) 28 37 (face org-special-keyword org-category #1# fontified t) 37 38 (org-category #1# fontified t) 38 49 (face org-date keymap \.\.\. mouse-face highlight org-category #1# fontified t) 49 50 (face org-date keymap \.\.\. mouse-face highlight rear-nonsticky \.\.\. org-category #1# fontified t) 50 51 (fontified t org-category #1#) 51 52 (org-category #1# fontified t)) #("
+" 0 1 (fontified t org-category "Projects")) #(" - State \"DONE\"       from \"INFO\"       [2019-04-30 Tue 21:21]
+" 0 1 (org-category "Projects" fontified t) 1 3 (fontified t) 3 28 (fontified t) 28 32 (fontified t org-todo-head #("TODO" 0 4 ...)) 32 40 (fontified t) 40 61 (face org-date keymap \.\.\. mouse-face highlight fontified t) 61 62 (face org-date rear-nonsticky \.\.\. keymap \.\.\. mouse-face highlight fontified t) 62 63 (fontified t)) #("DEADLINE: <2019-05-31" 0 8 (face org-special-keyword org-category #1="Projects" fontified t) 8 9 (face org-code org-category #1# fontified t) 9 10 (face org-code org-category #1# fontified t) 10 15 (face org-code keymap \.\.\. mouse-face highlight org-category #1# fontified t) 15 18 (fontified t org-category #1#) 18 21 (org-category #1# fontified t)) #("TODO" 0 4 (fontified t org-category "Projects" face org-todo)) #("* Do network analysis of my MSc data
+* Write a master script of my MSc data analysis for the essential results
+* Write a result paper outline and send it to Xavi and Joseph
+* Write an outline for this week meeting with Gavin
+* Write an outline of what I want to tell Iman
+" 0 2 (face org-level-1 org-category #1="Inbox" fontified t) 2 36 (face org-level-1 org-category #1# fontified t) 36 37 (org-category #1# fontified t) 37 39 (fontified t org-category #1# face org-level-1) 39 42 (fontified t org-category #1# face org-level-1) 42 110 (fontified t org-category #1# face org-level-1) 110 111 (org-category #1# fontified t) 111 113 (fontified t org-category #1# face org-level-1) 113 172 (fontified t org-category #1# face org-level-1) 172 173 (org-category #1# fontified t) 173 175 (fontified t org-category #1# face org-level-1) 175 224 (fontified t org-category #1# face org-level-1) 224 225 (org-category #1# fontified t) 225 227 (fontified t org-category #1# face org-level-1) 227 271 (fontified t org-category #1# face org-level-1) 271 272 (org-category #1# fontified t)) #("* Implementering GTD
+* Answer Xavier and Krist
+* Implementering new jakyll theme for hh-nuig
+" 0 2 (face org-level-1 org-category #1="Inbox" fontified t) 2 20 (face org-level-1 org-category #1# fontified t) 20 21 (org-category #1# fontified t) 21 23 (fontified t org-category #1# face org-level-1) 23 46 (fontified t org-category #1# face org-level-1) 46 47 (org-category #1# fontified t) 47 49 (fontified t org-category #1# face org-level-1) 49 92 (fontified t org-category #1# face org-level-1) 92 93 (org-category #1# fontified t)) #("* PhD planning
+* PhD literature review
+" 0 2 (face org-level-1 org-category #1="Inbox" fontified t) 2 14 (face org-level-1 org-category #1# fontified t) 14 15 (org-category #1# fontified t) 15 17 (fontified t org-category #1# face org-level-1) 17 38 (fontified t org-category #1# face org-level-1) 38 39 (org-category #1# fontified t)) #("Jyaoers" 0 7 (fontified t)) #("for the article" 0 4 (fontified t) 4 8 (fontified t) 8 15 (fontified t)) #("Application questions " 0 12 (fontified t) 12 22 (fontified t)) #("tructure" 0 8 (fontified t)) #("Outcome" 0 7 (fontified t org-category "Resources" face org-level-4)) #(" " 0 1 (fontified t org-category "Resources" face org-level-3)) #("*" 0 1 (fontified t org-category "Resources" face org-level-3)) #(":" 0 1 (fontified t org-category "Resources" face org-level-3)) #("9" 0 1 (fontified t org-category "Resources" face org-level-3)) #("1" 0 1 (fontified t org-category "Resources" face org-level-3)) #("4" 0 1 (fontified t org-category "Resources" face org-level-3)) #("0" 0 1 (fontified t org-category "Resources" face org-level-3)) #("2" 0 1 (fontified t org-category "Resources" face org-level-3)) #("*" 0 1 (fontified t org-category "Resources" face \.\.\. font-lock-multiline t org-emphasis t)) #("TODO" 0 4 (fontified t face org-todo)) #("** Drop-in hours
+
+" 0 1 (fontified t org-category #1="Areas" face org-level-2) 1 2 (fontified t org-category #1# face org-level-2) 2 3 (fontified t org-category #1# face org-level-2) 3 16 (fontified t org-category #1# face org-level-2) 16 17 (fontified t org-category #1#) 17 18 (org-category #1# fontified t)) #("** Courses & Seminars" 0 1 (fontified t face org-level-2 org-category #1="Areas") 1 3 (fontified t face org-level-2 org-category #1#) 3 21 (fontified t face org-level-2 org-category #1#)) "[[https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003531][McMurdie & Holmes (2014)]]" #("
+" 0 1 (yank-handler \.\.\.)) #("* PhD proposal
+** Summary of the SFI proposal funding the project
+*** PROPOSAL TITLE:
+Next-generation trace elements exploitation (TEX) in microbial communities at
+the scales of genomes, cells, biofilms and new biotechnology.
+
+*** BUDGET:
+€499,126.00
+
+*** DURATION:
+48 months
+
+*** AREA OF INTEREST:
+Biotech for waste treatment, biorefinering, and agricultural ecosystems. In the
+scope of sustainability, *technology-microbes* interactions, and *microbiology
+of anaerobic digestion*
+
+*** FOCUS:
+Trace elements (TEs): _product oriented_, for TEs /blends/ that can enhance
+anaerobic digestion performances. That is, understand the role of TEs on the AD
+microbial communities structure and functioning, with the aim of producing 1+
+efficient TEs blend to improve the communities stability, digestive potential,
+and biogas production.
+
+*** CURRENT HYPOTHESES:
+1. TEs affect the microbial communities assembly
+2. TEs affect the microbial communities' structure
+3. TEs affect the biofilm (granular) structure
+4. Sulphate reduction metabolism causes TEs scavenging
+5. Specific genetic targets that can significantly describe the TEs
+_bioavailability_ (e.g. mRNA level for enzymes involved in TEs metabolism
+/or/and/ phylogenetic marker for know taxa involved in TEs metabolism) can be
+identified.
+
+*** WHEN IS THE PROJECT COMPLETE:
+When diagnostic tools, able to determine TEs deficiency or efficient TE dosing,
+are developed and tested on the field in collaboration with industrial partners.
+
+*** PhD STUDENT EXPECTED ACTIVITIES:
+- Lab-scale bioreactor(s) set-up and management
+- Miniaturised bioreactor(s) design and realisation
+- Genome-scale work (Amplicon sequencing, WGS, and Metagenomics)
+- Biofilm and culture studies
+
+*** OTHER DETAILS
+- Metagenomics should be preferred over 16S amplicon sequencing
+- Granulation process: *Spaghetti Theory* with filamentous /Methanosaeta/ spp.
+- Single granule is assumed to be a *complete* and *fully functional* unit of
+  the anaerobic digestion process
+- We still don't know if granules in a reactor are *replicates* or *interacting*
+  (even competing) units.
+- Low temperature (> 20 C) --> more hydrogenotrophics --> out-competition of
+  /Methanosaeta/ spp. can hinder granulation (accordingly to the Spaghetti
+  Theory).
+- Little is known about TEs role on microbial ecology in AD and biogas
+  production. --> *SEE REFERENCES 7-13*
+- Metagenomics can be used to develop targeted culturing strategies
+- Metabolic network modelling including /indirect interaction/: *See reference
+  18*
+- Microfluidics culturing: *See reference 20*
+
+*** *TEAM* overview
+- PD1: Postdoc 1: I.e. Joe Gilson
+- PD2: Postdoc 2: To be hired for the 3rd and 4th years
+- PG1: PhD student 1: I.e. _Myself_
+- PG2: PhD student 2: to be hired by /Pit Lens/
+
+*** Work Packages (WP)
+**** WP1: polyomics survey and targeted characterisation of AD
+*TEAM* Me and Joe
+
+*TASKS:*
+
+- Biomass from *50* bioreactors across the globe to be sampled at 3 time points.
+- Lab-scale bioreactors started with collected granular sludge as feed and
+  tested for TEs presence/absence. I.e., All TEs (/Co/Cu/Fe/Mo/Ni/Se/Zn/) and a
+  set with a deprived TE (one by one).
+- Weekly sampling and analysis on the lab-scale bioreactors for *4 months* and
+  test for microbial communities structure (16S rRNA gene amplicon sequencing);
+  operating conditions. *GOAL:* Build a library for metagenomics and
+  metatranscriptomics analysis.
+- DNA/RNA-SIP
+
+**** WP2: Single-species isolation and community assembly at single-species level
+*TEAM:* Me, Joe, and the next Postdoc
+
+*TASKS:*
+
+- Metagenome-assembled genomes of AD communities with metabolic network
+  analysis. /Coupled/ with the SIP analysis, this should provide good
+  understanding of the communities' metabolic functions.
+- *'Nursey'* bioreactor to deconstruct the trophic groups
+  (hydrolysis-fermentation, acetogenesis, methanogenesis, sulphur reduction...)
+  of the anaerobic process. Enriched isolated trophic biofilms will be sequenced
+  for ecological analysis.
+- Magneto-FISH (*See reference 23*) for co-target physically associated
+  organisms.
+- Assembly of microfluidics devices w/ the help of Dr. Huabing Yin (Glasgow).
+- Crushed granules will be used as seeds for single-cell isolation in the
+  microfluidics device for growth rate and characterisation analysis.
+- Further growth kinetics and metabolomics on single species
+- Mathematical modelling (*only the two postdocs*) at single-species level for
+  /in-silico/ optimal community configurations
+
+**** WP3: Granular sludge evolution
+*TEAM:* Me and second postdoc
+
+- Physio-chemical characterisation of granules fractions (3+)
+- Single-granules amplicon sequencing: Are granules *replicates* _OR_
+  *different* communities?
+- 3D-printed micro sequencing batch reactors (Micro-SBRs) for *single-granules*:
+  TEs effect exploration
+- Omics analysis on single granule ecosystem in micro-SBRs
+- CLASI-FISH for multiple (10+) taxa localisation in the single-granule
+- Granules *peeling* to investigate layers structure
+- Single-granule growth: Isolated size fractions are growth and granular
+  evolution (small --> medium --> large, or other) investigated
+
+**** WP4: Community-on-a-chip reconstruction
+*TEAM:* Me, second postdoc and Dr. H. Yin (Glasgow)
+
+- Exploration of pairs of potentially syntrophic taxa co-grown on a 3D-printed
+  semi-permeable microfluidics chamber
+- Minimal AD community will be assembled on the same chamber. This will include
+  all the minimal trophic level of AD (Hydrolysis, fermentation, acetogenesis,
+  methanogenesis)
+
+**** WP5: Apply what is discovered (kinda)
+*TEAM:* Me, second PhD and second postdoc
+
+- Characterisation of commercial TEs blend and their effect on AD process
+  parameters and microbial ecology
+- Discovery of biological markers for TEs bioavailability and uptake
+- Design of psychrotollerant engineered hydrogel-based granular biofilm for AD
+- Monitoring of engineered granular biofilm
+
+** Summary of my previous results
+** Summary of the previous work from the lab
+*** Sarah's PhD thesis
+*** Anna's work
+*** Simon's work
+** What are *my* research questions (RQs)?
+1. Can the study of anaerobic *natural* environments solve the problems for
+   biogas production in low-temperature and/or high sulphur concentration?
+2. Can the microbial phylogeny be a complete and sole descriptor of the reactor
+   performance?
+3. Given a full-scale reactor ideally mixed, do a granular sludge /speciation/
+   happens? I.e., Morphologically, physiologically, and/or phylogenetically
+   different granules exists within a single ideally mixed reactor?
+3.1. Do an ideally mixed reactor exists?
+
+List of possible experiments for the first six months of my PhD
+
+| Month   | Week n. | Experiment                      |
+|---------+---------+---------------------------------|
+| Mar     |      12 | Getting around the lab w/ Simon |
+| Mar     |      13 | Getting around the lab w/ Simon |
+| Apr     |      14 | Collect granular sludge samples |
+| Apr     |      15 | 16S characterisation of inocula |
+| Apr     |      16 | Easter Holidays: data analysis  |
+| Apr     |      17 | Easter Holidays: data analysis  |
+| Apr/May |      18 |                                 |
+| May     |      19 |                                 |
+| May     |      20 |                                 |
+| May     |      21 |                                 |
+| May/Jun |      22 |                                 |
+| Jun     |      23 |                                 |
+| Jun     |      24 |                                 |
+| Jun     |      25 |                                 |
+| Jun     |      26 | Birthday                        |
+| Jul     |      27 |                                 |
+| Jul     |      28 |                                 |
+| Jul     |      29 |                                 |
+| Jul     |      30 |                                 |
+| Jul/Aug |      31 |                                 |
+| Aug     |      32 |                                 |
+| Aug     |      33 |                                 |
+| Aug     |      34 | Mysteryland 2019                |
+| Aug/Sep |      35 | Summer holidays                 |
+| Sep     |      36 |                                 |
+| Sep     |      37 |                                 |
+| Sep     |      38 |                                 |
+| Sep     |      39 |                                 |
+| Sep/Oct |      40 |                                 |
+| Oct     |      41 |                                 |
+| Oct     |      42 |                                 |
+| Oct     |      43 |                                 |
+| Oct/Nov |      44 |                                 |
+| Nov     |      45 |                                 |
+| Nov     |      46 |                                 |
+| Nov     |      47 |                                 |
+| Nov/Dec |      48 |                                 |
+| Dec     |      49 |                                 |
+| Dec     |      50 |                                 |
+| Dec     |      51 |                                 |
+| Dec     |      52 | Xmas holidays                   |
+
+*** Experiment 1
+*** Experiment 2...
+" 0 2 (face org-level-1 fontified t) 2 14 (face org-level-1 fontified t) 14 15 (fontified t) 15 16 (face org-level-2 fontified t) 16 18 (face org-level-2 fontified t) 18 65 (face org-level-2 fontified t) 65 66 (fontified t) 66 68 (face org-level-3 fontified t) 68 70 (face org-level-3 fontified t) 70 85 (face org-level-3 fontified t) 85 227 (fontified t) 227 229 (face org-level-3 fontified t) 229 231 (face org-level-3 fontified t) 231 238 (face org-level-3 fontified t) 238 252 (fontified t) 252 254 (face org-level-3 fontified t) 254 256 (face org-level-3 fontified t) 256 265 (face org-level-3 fontified t) 265 277 (fontified t) 277 279 (face org-level-3 fontified t) 279 281 (face org-level-3 fontified t) 281 298 (face org-level-3 fontified t) 298 382 (fontified t) 382 404 (fontified t) 404 425 (org-emphasis t font-lock-multiline t face \.\.\. fontified t) 425 444 (fontified t) 444 458 (org-emphasis t font-lock-multiline t face \.\.\. fontified t) 458 481 (org-emphasis t font-lock-multiline t face \.\.\. fontified t) 481 483 (fontified t) 483 485 (face org-level-3 fontified t) 485 487 (face org-level-3 fontified t) 487 493 (face org-level-3 fontified t) 493 497 (fontified t) 497 516 (fontified t) 516 534 (org-emphasis t font-lock-multiline t face \.\.\. fontified t) 534 544 (fontified t) 544 552 (org-emphasis t font-lock-multiline t face \.\.\. fontified t) 552 570 (fontified t) 570 5939 (fontified nil) 5939 5940 (fontified t) 5940 5941 (face org-level-2 fontified t) 5941 5943 (face org-level-2 fontified t) 5943 5973 (face org-level-2 fontified t) 5973 5974 (fontified t) 5974 5975 (face org-level-2 fontified t) 5975 5977 (face org-level-2 fontified t) 5977 6018 (face org-level-2 fontified t) 6018 6019 (fontified t) 6019 6021 (face org-level-3 fontified t) 6021 6023 (face org-level-3 fontified t) 6023 6041 (face org-level-3 fontified t) 6041 6042 (fontified t) 6042 6044 (face org-level-3 fontified t) 6044 6046 (face org-level-3 fontified t) 6046 6057 (face org-level-3 fontified t) 6057 6058 (fontified t) 6058 6060 (face org-level-3 fontified t) 6060 6062 (face org-level-3 fontified t) 6062 6074 (face org-level-3 fontified t) 6074 6075 (fontified t) 6075 6076 (face org-level-2 fontified t) 6076 6078 (face org-level-2 fontified t) 6078 6087 (face org-level-2 fontified t) 6087 6091 (org-emphasis t font-lock-multiline t face \.\.\. fontified t) 6091 6117 (face org-level-2 fontified t) 6117 6118 (fontified t) 6118 6148 (fontified t) 6148 6157 (org-emphasis t font-lock-multiline t face \.\.\. fontified t) 6157 6431 (fontified t) 6431 6443 (org-emphasis t font-lock-multiline t face \.\.\. fontified t) 6443 6563 (fontified t) 6563 6588 (fontified t) 6588 9121 (fontified nil) 9121 9123 (face org-level-3 fontified t) 9123 9125 (face org-level-3 fontified t) 9125 9140 (face org-level-3 fontified t) 9140 9141 (fontified t)) "* Planning
+" #("* About
+" 0 2 (fontified t face org-level-1) 2 7 (fontified t face org-level-1) 7 8 (fontified t)) #(" " 0 1 (fontified t)) " t_{60'}, t_{180'}, t_{300'}, t_{420'" #("10" 0 2 (fontified t)) #("     
+     
+     
+     " 0 5 (fontified t yank-handler \.\.\.) 5 6 (yank-handler \.\.\.) 6 11 (fontified t yank-handler \.\.\.) 11 12 (yank-handler \.\.\.) 12 17 (fontified t yank-handler \.\.\.) 17 18 (yank-handler \.\.\.) 18 23 (fontified t yank-handler \.\.\.)) "α" #("considering t" 0 12 (fontified t) 12 13 (fontified t)) #("
+" 0 1 (fontified t yank-handler \.\.\.)) #("**** Protocol
+     1. Witdrawh 
+" 0 3 (face org-level-4 fontified t yank-handler \.\.\.) 3 5 (face org-level-4 fontified t yank-handler \.\.\.) 5 13 (face org-level-4 fontified t yank-handler \.\.\.) 13 14 (fontified t yank-handler \.\.\.) 14 31 (fontified t yank-handler \.\.\.) 31 32 (fontified t yank-handler \.\.\.)) #("total RNA extraction.
+" 0 22 (fontified t yank-handler \.\.\.)) #("Obtain sludge samples with sufficient quality and quantity for total DNA and
+" 0 77 (fontified t yank-handler \.\.\.)) #("**** Aim
+" 0 3 (face org-level-4 fontified t yank-handler \.\.\.) 3 5 (face org-level-4 fontified t yank-handler \.\.\.) 5 8 (face org-level-4 fontified t yank-handler \.\.\.) 8 9 (fontified t yank-handler \.\.\.)) #("*** Sampling procedure
+" 0 2 (face org-level-3 fontified t yank-handler \.\.\.) 2 4 (face org-level-3 fontified t yank-handler \.\.\.) 4 22 (face org-level-3 fontified t yank-handler \.\.\.) 22 23 (fontified t yank-handler \.\.\.)) #("The study setup is constituted by two 3l CST anaerobic reactors fed with pig
+manure of which one of them will be spiked with glucose to simulate increased
+OLR. The glucose spike will be in a concentration ranging between 1 and 20 g/L
+(based on early phase experiments). The two reactors are operated in an
+ideantical fashion; i.e., one act as control. Both reactors are re-fed daily
+with about 1l of manure (i.e., SRT of about 3 day) and the sludge sampled 5
+times per day (considering four weeks of sampling this mean 140 sludge
+samples). The time-points are ideally 30 mins before the glucose spike and 30,
+60, 90, and 120 mins after. Physicochemical analysis will be performed on
+hydrogen concentration (MS, HPLC, and non-linear IR spec), biogas production
+(quantification and composition), and VFA concentration (how?). Microbiological
+analysis might be performed on either DNA, RNA or both (sequencing and/or
+quantitative PCR (qPCR)); hence snap freeze with liquid nitrogen is needed to
+preserve RNA profile. A volume between 2 and 5ml of sluldge per sample should
+sufficie, but tests are required.
+
+" 0 484 (fontified t yank-handler \.\.\.) 484 530 (fontified t yank-handler \.\.\.) 530 1030 (fontified t yank-handler \.\.\.) 1030 1070 (fontified t yank-handler \.\.\.) 1070 1104 (fontified t yank-handler \.\.\.) 1104 1105 (fontified t yank-handler \.\.\.)) #("about 1 3 " 0 10 (fontified t))))
+(setq-default session-file-alist '(("~/Dropbox/org/Projects.org" 991 451 1 nil nil 695 (overwrite-mode)) ("~/Dropbox/org/Archive.org" 1396 nil 1 nil nil 1397 (overwrite-mode)) ("~/Dropbox/org/Areas.org" 274 1124 1 nil nil 10180 (overwrite-mode)) ("~/Dropbox/org/Resources.org" 394 10931 1 nil nil 12761 (overwrite-mode)) ("~/Dropbox/org/Inbox.org" 12171 283 1 nil nil 12192 (overwrite-mode)) ("~/repos/redguardtoo-emacs/lisp/init-org.el" 6000 1 1 nil nil 6001 (overwrite-mode)) ("~/archive/phd-planing-notes.org" 109 9249 1 nil nil 123 (overwrite-mode)) ("~/research/NOTEBOOK.org" 36009 36009 1 nil nil 40753 (overwrite-mode)) ("~/repos/MP_emacs/config.org" 985 1142 1 nil nil 792 (overwrite-mode)) ("~/repos/MP_emacs/init.el" 671 276 1 nil nil 1604 (overwrite-mode)) ("~/.emacs.d/elpa/try-0.0.1/try-autoloads.el" 700 nil 1 nil nil 700 (overwrite-mode)) ("~/.emacs.d/custom-set-variables.el" 1 nil 1 nil nil 3597 (overwrite-mode)) ("~/hobbies/hh-nuig/github-page/Structure/AboutHH/Marco.md" 1149 1090 1 nil nil 1149 (overwrite-mode)) ("~/hobbies/hh-nuig/github-page/Structure/AboutHH/Jekyll_build.md" 1 nil 1 nil nil nil (overwrite-mode)) ("~/hobbies/hh-nuig/github-page/.git/COMMIT_EDITMSG" 36 37 1 nil nil 37 (overwrite-mode)) ("~/hobbies/hh-nuig/github-page/_config.yml" 20 nil 1 nil nil 21 (overwrite-mode)) ("~/research/projects/paper_msc-thesis-results_20190401-RUNNING/report/tex_src/main.tex" 22 22 1 nil nil 23 (overwrite-mode)) ("~/research/projects/paper_msc-thesis-results_20190401-RUNNING/report/tex_src/results.tex" 381 381 1 nil nil 382 (overwrite-mode)) ("~/research/projects/paper_msc-thesis-results_20190401-RUNNING/report/tex_src/main.pdf" 1 nil 1 nil nil 150749 (overwrite-mode))))
+(setq-default file-name-history '("~/repos/redguardtoo-emacs/lisp/init-org.el" #("/home/marco/.emacs.d/lisp/init-org.el" 0 37 (ivy-index 0)) "~/.emacs.d/diary" "~/org/Resources.org" "~/org/Projects.org" "~/org/Inbox.org" "~/org/Archive.org" #("/home/marco/org/Areas.org" 0 25 (ivy-index 0)) "~/archive/phd-planing-notes.org" "~/projects/hh_qiime2-tutorial_20190329-x/src/cd" "~/projects/hh_qiime2-tutorial_20190329-x/00_documentation/mp_v.1.0_project-name_notebook.org" "~/areas/phd-planing/proposal_20190312-h/notebook.org" "~/research/LICENSE" "~/README.org" "~/hobbies/README.org" "~/research/NOTEBOOK.odt" "/tmp/odt-bZ94sp/META-INF/manifest.xml" "/tmp/odt-bZ94sp/content.xml" "/tmp/odt-bZ94sp/styles.xml" #("/home/marco/research/NOTEBOOK.org" 0 33 (ivy-index 7)) #("/home/marco/repos/MP_emacs/init.el" 0 34 (ivy-index 0)) "~/repos/MP_emacs/config.org" #("/home/marco/repos/MP_emacs/" 0 27 (ivy-index 0)) "~/org/config.org" #("/home/marco/org/Journal.org.gpg" 0 31 (ivy-index 0)) #("/home/marco/research/" 0 21 (ivy-index 32)) #("/home/marco/repos/redguardtoo-emacs/init.el" 0 43 (ivy-index 12)) #("/home/marco/repos/MP_emacs/init.org" 0 35 (ivy-index 1)) "~/repos/MP_emacs/init.el" "/tmp/tryvXL0GV/org-bullets-0.2.4/org-bullets-autoloads.el" "~/.emacs.d/elpa/try-0.0.1/try-autoloads.el" "~/.emacs.d/custom-set-variables.el" "~/repos/redguardtoo-emacs/init.el" #("/home/marco/.emacs.d/init.el" 0 28 (ivy-index 19)) #("/home/marco/hobbies/hh-nuig/github-page/Structure/AboutHH/Jekyll_build.md" 0 73 (ivy-index 0)) #("/home/marco/hobbies/hh-nuig/github-page/Structure/AboutHH/Marco.md" 0 66 (ivy-index 0)) "~/hobbies/hh-nuig/github-page/Structure/AboutHH/about.md" "~/hobbies/hh-nuig/github-page/_config.yml" #("/home/marco/hobbies/hh-nuig/github-page/" 0 40 (ivy-index 0)) #("/home/marco/hobbies/" 0 20 (ivy-index 0)) "~/research/projects/paper_msc-thesis-results_20190401-RUNNING/report/tex_src/main.pdf" #("/home/marco/research/projects/paper_msc-thesis-results_20190401-RUNNING/report/figures/" 0 87 (ivy-index 2)) "~/research/projects/paper_msc-thesis-results_20190401-RUNNING/report/tex_src/results.tex" "~/research/projects/paper_msc-thesis-results_20190401-RUNNING/report/tex_src/preamble.tex" "~/research/projects/paper_msc-thesis-results_20190401-RUNNING/report/tex_src/methods.tex" "~/research/projects/paper_msc-thesis-results_20190401-RUNNING/report/tex_src/main.tex" "~/research/projects/paper_msc-thesis-results_20190401-RUNNING/report/tex_src/intro.tex" "~/research/projects/paper_msc-thesis-results_20190401-RUNNING/report/tex_src/acroyms.tex" "~/research/projects/paper_msc-thesis-results_20190401-RUNNING/report/tex_src/abstract.tex" #("/home/marco/research/projects/paper_msc-thesis-results_20190401-RUNNING/" 0 72 (ivy-index 0)) #("/home/marco/research/projects/" 0 30 (ivy-index 0)) "~/research/NOTEBOOK.org" #("/home/marco/repos/redguardtoo-emacs/site-lisp/pos-tip/pos-tip.el" 0 64 (ivy-index 2)) "~/repos/redguardtoo-emacs/lisp/init-utils.el" "~/repos/redguardtoo-emacs/demo.png" #("/home/marco/repos/redguardtoo-emacs/" 0 36 (ivy-index 0)) #("/home/marco/.emacs.d/" 0 21 (ivy-index 9)) #("/home/marco/" 0 12 (ivy-index 0))))
+(setq-default regexp-search-ring '("INFO" "V{" "fill-column"))
+(setq-default amx-history '(org-todo-list magit-status org-version try package-install magit-checkout magit-clean))
+(setq-default buffer-name-history '("*Calendar*" "*Messages*" "*Flymake log*" "diary" "Projects.org" "Archive.org" "*scratch*" "Areas.org" "*Ibuffer*" "Resources.org" "Inbox.org" "init-org.el" "*Org Agenda*" "notebook.org" "LICENSE" "*Help*" "*Backtrace*" "magit: MP_emacs" "init.el • redguardtoo-emacs" "*Shell Command Output*" "init.el" "_config.yml" "hobbies" "*Custom Themes*" "figures" "*Keys*" "*Customize Option: Fill Column*" "misc" "redguardtoo-emacs" "lisp" "init-utils.el" "pos-tip.el" "demo.png"))
+(setq-default command-history '((kill-buffer "*Calendar*") (kill-buffer "*Messages*") (kill-buffer "*Flymake log*") (kill-buffer "diary") (kill-buffer #("Projects.org" 0 12 ...)) (evil-change 264 268 (quote exclusive) nil nil) (kill-buffer #("Archive.org" 0 11 ...)) (kill-buffer "*scratch*") (kill-buffer #("Areas.org" 0 9 ...)) (kill-buffer "*Ibuffer*") (kill-buffer #("Resources.org" 0 13 ...)) (kill-buffer #("Inbox.org" 0 9 ...)) (evil-set-marker 105) (kill-buffer "init-org.el") (find-file-other-frame "/home/marco/.emacs.d/lisp/init-org.el" t) (evil-change 10927 10934 (quote exclusive) nil nil) (evil-change 1266 1270 (quote exclusive) nil nil) (evil-yank 1763 1871 (quote inclusive) nil nil) (kill-buffer "*Org Agenda*") (org-todo-list nil) (evil-delete 8990 8990 (quote line) nil nil) (find-file "/home/marco/org/Areas.org" t) (kill-buffer #("notebook.org" 0 12 ...)) (kill-buffer "LICENSE") (insert-char 946 1 t) (insert-char 8451 1 t) (evil-change 39808 39810 (quote exclusive) nil nil) (evil-replace 39760 39761 (quote exclusive) 51) (insert-char 8804 1 t) (insert-char 945 1 t) (evil-delete 37326 37327 (quote line) nil nil) (evil-delete 36072 36073 (quote line) nil nil) (evil-delete 36072 36094 (quote line) nil nil) (evil-delete 36072 36149 (quote line) nil nil) (evil-delete 36072 36081 (quote line) nil nil) (evil-delete 36072 36095 (quote line) nil nil) (evil-delete 37977 37987 (quote inclusive) nil nil) (evil-find-char-pinyin-to nil 100) (evil-delete 37963 37970 (quote inclusive) nil nil) (evil-find-char-pinyin-to nil 40) (evil-find-char-pinyin-to nil 42) (evil-replace 37791 37792 (quote exclusive) 46) (find-file "/home/marco/research/NOTEBOOK.org" t) (evil-delete 801 802 (quote line) nil nil) (evil-delete 883 884 (quote line) nil nil) (evil-delete 798 799 (quote line) nil nil) (evil-delete 798 820 (quote line) nil nil) (evil-delete 798 823 (quote line) nil nil) (evil-delete 431 432 (quote line) nil nil) (kill-buffer "*Help*") (evil-delete 120 142 (quote line) nil nil) (kill-buffer "*Backtrace*") (evil-yank 1 76 (quote inclusive) nil nil) (find-function (quote mp/emacs-subdirectory)) (evil-change 477 479 (quote exclusive) nil nil) (evil-change 372 392 (quote exclusive) nil nil) (avy-goto-char-2 108 108 nil) (evil-change 290 305 (quote inclusive) nil nil) (evil-find-char-pinyin-to nil 109) (evil-delete 248 257 (quote exclusive) nil nil) (avy-goto-char-2 59 59 nil) (evil-delete 355 356 (quote line) nil nil) (evil-delete 136 137 (quote line) nil nil) (evil-change 90 95 (quote inclusive) nil nil) (evil-delete 88 101 (quote line) nil nil) (evil-change 1603 1615 (quote inclusive) nil nil) (evil-find-char-pinyin-to nil 117) (find-file "/home/marco/repos/MP_emacs/init.el" t) (kill-buffer "magit: MP_emacs") (magit-status nil (quote \.\.\.)) (find-file-other-window "/home/marco/repos/MP_emacs/" t) (find-file "/home/marco/org/Journal.org.gpg" t) (evil-delete 38223 38368 (quote line) nil nil) (evil-delete 41338 41339 (quote line) nil nil) (evil-replace 39202 39203 (quote exclusive) 65) (evil-delete 39202 39211 (quote exclusive) nil nil) (evil-delete 39219 39220 (quote line) nil nil) (evil-delete 19603 19604 (quote line) nil nil) (evil-replace 39553 39554 (quote exclusive) 108) (evil-find-char-pinyin nil 76) (evil-replace 38908 38909 (quote exclusive) 108) (evil-find-char-pinyin-backward nil 76) (evil-replace 38552 38553 (quote exclusive) 108) (evil-replace 38940 38941 (quote exclusive) 51) (evil-replace 38260 38261 (quote exclusive) 59) (evil-use-register 43) (evil-replace 38028 38029 (quote exclusive) 45) (evil-delete 36987 37052 (quote line) nil nil) (find-file-other-frame "/home/marco/research/" t) (kill-buffer "init.el • redguardtoo-emacs") (find-file "/home/marco/repos/redguardtoo-emacs/init.el" t) (find-file-other-window "/home/marco/repos/MP_emacs/init.org" t) (find-file "/home/marco/repos/MP_emacs/" t) (evil-delete 22223 22231 (quote line) nil nil) (org-version nil t t) (evil-change 38453 38458 (quote exclusive) nil nil) (evil-change 22225 22232 (quote exclusive) nil nil) (org-bullets-mode (quote toggle)) (try)))
+(setq-default counsel-M-x-history '(#("^org-to" 0 7 (ivy-index 1)) #("^magit st" 0 9 (ivy-index 0)) #("^org-ver" 0 8 (ivy-index 0)) #("^org-bu" 0 7 (ivy-index 0)) #("^try" 0 4 (ivy-index 0)) #("install" 0 7 (ivy-index 1)) #("^magit-checkout" 0 15 (ivy-index 0)) #("^magit" 0 6 (ivy-index 11)) #("^magit-sta" 0 10 (ivy-index 0)) #("theme" 0 5 (ivy-index 0)) #("^rever" 0 6 (ivy-index 0)) #("prett" 0 5 (ivy-index 1))))
+(setq-default counsel-describe-symbol-history '(#("^" 0 1 (ivy-index 9710)) #("^fill" 0 5 (ivy-index 0))))
+(setq-default counsel-git-grep-cmd-history '("git --no-pager grep --full-name -n --no-color -i -I -e \"%s\""))
+(setq-default evil-ex-history '(#("wq" 0 1 (ex-index 1) 1 2 (ex-index 2)) #("w" 0 1 (ex-index 1))))
+(setq-default evil-search-forward-history '("INFO" "V{" "fill-column"))
+(setq-default ivy-history '("Inbox.org" "*Org Agenda*" #("beta" 0 4 (ivy-index 1)) #("cels" 0 4 (ivy-index 0)) #("degree " 0 7 (ivy-index 1)) #("less equal" 0 10 (ivy-index 0)) #("greek small letter bet" 0 22 (ivy-index 0)) #("greek small letter alpha" 0 24 (ivy-index 2)) #("greek small letter alp" 0 22 (ivy-index 2)) #("*s" 0 2 (ivy-index 0)) "mp/emacs-subdirectory" #("org-bul" 0 7 (ivy-index 0)) #("try" 0 3 (ivy-index 1)) #(".em" 0 3 (ivy-index 0)) #("ma" 0 2 (ivy-index 0)) "results.tex" "methods.tex"))
+(setq-default magit-revision-history '("develop"))
+(setq-default my-dired-directory-history '("/home/marco/hobbies/hh-nuig/github-page/Structure/AboutHH" "/home/marco/hobbies/hh-nuig/github-page/Structure" "/home/marco/research/projects/paper_msc-thesis-results_20190401-RUNNING/report/tex_src" "/home/marco/research/projects/paper_msc-thesis-results_20190401-RUNNING/report" "/home/marco/repos/redguardtoo-emacs/lisp" "/home/marco/repos/redguardtoo-emacs/misc"))
+(setq-default my-search-text-history '("INFO" "V{" "fill-column"))
+(setq-default occur-collect-regexp-history '("\\1"))
+(setq-default org-read-date-history '("   " "+5w    " "+38    " "+6    "))
+(setq-default org-refile-history '("Archive.org"))
+(setq-default org-tags-history '("meeting" #(":meeting:minutes" 0 16 (ivy-index 0)) #(":meeting: :minutes:" 0 19 (ivy-index 0))))
+(setq-default serial-name-history '("/dev/ttyS0"))
+(setq-default serial-speed-history '("9600" "1200" "2400" "4800" "14400" "19200" "28800" "38400" "57600" "115200"))
+(setq-default shell-command-history '("ls -lah .emacs.d/" "bundle exec jekyll serve"))
+(setq-default slime-connect-host-history '("localhost"))
+(setq-default slime-connect-port-history '("4005"))
+(setq-default swiper-history '("PDF"))
+(setq-default table-capture-columns-history '(""))
+(setq-default table-capture-justify-history '("left"))
+(setq-default table-capture-min-cell-width-history '("5"))
+(setq-default table-cell-height-history '("1"))
+(setq-default table-cell-span-direction-history '("right"))
+(setq-default table-cell-split-contents-to-history '("split"))
+(setq-default table-cell-split-orientation-history '("horizontally"))
+(setq-default table-cell-width-history '("5"))
+(setq-default table-col-delim-regexp-history '(""))
+(setq-default table-columns-history '("3"))
+(setq-default table-insert-row-column-history '("row"))
+(setq-default table-justify-history '("center"))
+(setq-default table-row-delim-regexp-history '(""))
+(setq-default table-rows-history '("3"))
+(setq-default table-sequence-count-history '("0"))
+(setq-default table-sequence-increment-history '("1"))
+(setq-default table-sequence-interval-history '("1"))
+(setq-default table-sequence-justify-history '("left"))
+(setq-default table-sequence-string-history '("0"))
+(setq-default table-source-caption-history '("Table"))
+(setq-default table-source-language-history '("html"))
+(setq-default table-target-history '("cell"))
+(setq-default tex-compile-history '("\\doc-view \"main.pdf\"" "pdflatex \\\\nonstopmode\\\\input main.tex"))

@@ -7,8 +7,8 @@
 (require 'prelude-helm) ;; Interface for narrowing and search
 ;; (require 'prelude-helm-everywhere) ;; Enable Helm everywhere
 (require 'prelude-company)
-(require 'prelude-key-chord) ;; Binds useful features to key combinations
-(require 'prelude-evil)
+;(require 'prelude-key-chord) ;; Binds useful features to key combinations
+;(require 'prelude-evil)
 
 ;;; Programming languages support
 (require 'prelude-c)
@@ -21,21 +21,21 @@
 ;; (require 'prelude-elixir)
 ;; (require 'prelude-go)
 ;; (require 'prelude-haskell)
-(require 'prelude-js)
+;; (require 'prelude-js)
 (require 'prelude-latex)
 (require 'prelude-lisp)
 (require 'prelude-lsp)
 ;; (require 'prelude-ocaml)
 (require 'prelude-org) ;; Org-mode helps you keep TODO lists, notes and more
-(require 'prelude-perl)
+;; (require 'prelude-perl)
 (require 'prelude-python)
-;; (require 'prelude-ruby)
+(require 'prelude-ruby)
 ;; (require 'prelude-rust)
 ;; (require 'prelude-scala)
 (require 'prelude-scheme)
 (require 'prelude-shell)
-;; (require 'prelude-scss)
+(require 'prelude-scss)
 ;; (require 'prelude-ts)
 ;; (require 'prelude-web) ;; Emacs mode for web templates
 (require 'prelude-xml)
-;; (require 'prelude-yaml)
+(require 'prelude-yaml)
